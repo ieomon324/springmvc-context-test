@@ -1,0 +1,11 @@
+# maven output
+target/
+# project 
+.project
+.settings/*
+.classpath
+
+
+# merge 
+*.orig
+*.bak
