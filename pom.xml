@@ -27,7 +27,10 @@
             <artifactId>spring-context</artifactId>
 <!--             <version>${org.springframework.version}</version> -->
         </dependency>
-        
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
 		<!-- JSTL Dependency -->
 		<dependency>
 			<groupId>javax.servlet.jsp.jstl</groupId>
